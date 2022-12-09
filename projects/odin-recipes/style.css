@@ -1,5 +1,4 @@
-.maintitle {
-    font-size: 80px;
+.recipeheader, .maintitle {
     text-align: center;
     color: lightsalmon;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -8,11 +7,24 @@
 }
 
 #mainsubheader {
-    font-size: large;
+    font-size: 30px;
     text-align:center;
 }
 
 .indexlist {
     text-align: center;
     list-style-type: none;
+}
+
+.recipeimg {
+    width: 500px;
+    height: auto;
+}
+
+.recipeheader {
+    font-size: 50px;
+}
+
+.maintitle {
+    font-size: 80px;
 }
