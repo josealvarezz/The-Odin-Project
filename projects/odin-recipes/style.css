@@ -1,0 +1,18 @@
+.maintitle {
+    font-size: 80px;
+    text-align: center;
+    color: lightsalmon;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 800;
+    background-color: pink;
+}
+
+#mainsubheader {
+    font-size: large;
+    text-align:center;
+}
+
+.indexlist {
+    text-align: center;
+    list-style-type: none;
+}
